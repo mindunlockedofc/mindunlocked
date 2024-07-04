@@ -28,6 +28,7 @@ body {
     align-items: center;
     opacity: 0;
     transition: opacity 2s;
+    text-align: start;
 }
 
 .container.fade {
@@ -51,6 +52,8 @@ body {
     width: 100%;
     max-width: 600px;
     margin-bottom: 20px;
+    text-align: start;
+    align-items: center;
 }
 
 .cont label {
@@ -59,7 +62,6 @@ body {
 
 .btngo {
     width: 100%;
-    max-width: 300px;
     padding: 10px;
     font-size: 1rem;
     border: 2px solid transparent;

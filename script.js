@@ -4,3 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
         element.classList.add('fade')
     })
 });
+
+function btngo() {
+    location.href = 'https://pay.kiwify.com.br/zPMlRRK'
+}
